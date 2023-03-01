@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="username">username</string>
+    <string name="description">description</string>
+    <string name="i_have_read_and_agree">I have read and agree.</string>
+    <string name="register">register</string>
+    <string name="add_customer">add customer</string>
+</resources>
